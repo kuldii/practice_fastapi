@@ -1,0 +1,4 @@
+# To start fast api
+>> cd lib
+>> uvicorn main:app --reload
+
