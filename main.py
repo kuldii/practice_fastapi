@@ -15,8 +15,7 @@ def load_model():
 def preprocess_image(img):
     img = img.resize((100, 100))
     x = tf.keras.utils.img_to_array(img)
-    x = tf.keras.applications.efficientnet.preprocess_input(x)
-    return x
+    tf.keras.applications.efficientnet.preprocess_input(x)
 
 @app.get("/")
 def main(request: Request):
