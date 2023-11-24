@@ -1,6 +1,12 @@
-# Practice FastAPI Room Classification Project
+# Practice FastAPI
 
 House & Apartaments Classification model
+
+## Team Member
+- Рахарди Сандикха РИМ-130908
+- Сидоркин Георгий Владимирович РИМ-130908
+- Мухин Виктор Александрович РИМ-130908
+- Шлёгин Лев Русланович РИМ-130908
 
 Данная модель оперделяет какая комната в доме или квартире изображена на загруженном в нее изображении
 
@@ -18,14 +24,7 @@ House & Apartaments Classification model
 ![](/assets/example/kitchen.jpeg)
 
 
-## Student Information
- * Sandikha Rahardi
- * РИМ-130908
-
-## Image Classification
-Toxic Comment Classification
-
-## Installation
+## Requirements
 ```bash
 pip install transformers
 ```

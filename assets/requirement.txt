@@ -1,3 +1,9 @@
-Step by step:
+Step by step to run:
 
-1. Install 
+1. Install all requirement
+2. run main.py
+3. open the given url (http://127.0.0.1:8000)
+4. upload an image
+5. get the result (json)
+
+For more information: http://127.0.0.1:8000/docs
