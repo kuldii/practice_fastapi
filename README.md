@@ -23,12 +23,6 @@ House & Apartaments Classification model
 
 ![](/assets/example/kitchen.jpeg)
 
-
-## Running Project
-```bash
-python main.py
-```
-
 ## Шаг 1: Клонирование репозитория
 Сначала необходимо склонировать репозиторий с помощью команды:
 ```bash
