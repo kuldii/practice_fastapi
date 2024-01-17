@@ -1,8 +1,8 @@
-streamlit
 transformers
 tensorflow
 fastapi
 uvicorn
 python-multipart
-Image
+Pillow
 httpx
+Jinja2

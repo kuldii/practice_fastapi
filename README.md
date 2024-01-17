@@ -24,24 +24,32 @@ House & Apartaments Classification model
 ![](/assets/example/kitchen.jpeg)
 
 
-## Requirements
-```bash
-pip install transformers
-```
-```bash
-pip install tensorflow
-```
-```bash
-pip install fastapi
-```
-```bash
-pip install uvicorn
-```
-```bash
-pip install python-multipart
-```
-
 ## Running Project
 ```bash
 python main.py
 ```
+
+## Шаг 1: Клонирование репозитория
+Сначала необходимо склонировать репозиторий с помощью команды:
+```bash
+git clone https://github.com/kuldii/practice_fastapi
+```
+
+## Шаг 2: Установка зависимостей
+Перейдите в каталог проекта и установите необходимые зависимости с помощью команды:
+```bash
+pip install --upgrade pip
+```
+```bash
+pip install -r requirements.txt
+```
+
+## Шаг 3: Запуск приложения
+Для запуска приложения введите следующую команду в терминале:
+```bash
+python main.py
+```
+
+## Шаг 4: Открытие приложения в браузере
+Откройте ваш веб-браузер и перейдите по следующему адресу:
+http://127.0.0.1:8000
